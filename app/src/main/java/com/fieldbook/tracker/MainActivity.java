@@ -3373,6 +3373,12 @@ public class MainActivity extends AppCompatActivity implements OnClickListener {
                         TutorialMainActivity.class.getName());
                 startActivity(helpIntent);
                 break;
+            case R.id.api:
+                Intent apiIntent = new Intent();
+                apiIntent.setClassName(MainActivity.this,
+                        ApiActivity.class.getName());
+                startActivity(apiIntent);
+                break;
             case R.id.nextEmptyPlot:
                 nextEmptyPlot();
                 break;

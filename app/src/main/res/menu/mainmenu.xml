@@ -6,6 +6,11 @@
         android:showAsAction="always"
         android:title="@string/tutorial" />
     <item
+        android:id="@+id/api"
+        android:icon="@drawable/ic_action_download"
+        android:showAsAction="always"
+        android:title="@string/api" />
+    <item
         android:id="@+id/nextEmptyPlot"
         android:icon="@drawable/ic_forward"
         android:showAsAction="always"

@@ -373,4 +373,5 @@
     <!-- Miscellaneous -->
     <string name="deletespecified">Delete selected</string>
     <string name="maxphotos">Maximum number of photos</string>
+    <string name="api">API</string>
 </resources>
