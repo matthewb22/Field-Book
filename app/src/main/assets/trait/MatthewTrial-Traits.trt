@@ -1,0 +1,4 @@
+trait,format,defaultValue,minimum,maximum,details,categories,isVisible,realPosition
+TGW_g,numeric,,,,,,TRUE,1
+PH_cm,numeric,,30.0,350.0,,,TRUE,2
+EarsHvst_ears_plot,numeric,,,,,,TRUE,3
